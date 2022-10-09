@@ -1,4 +1,5 @@
-![204918ba36913](https://user-images.githubusercontent.com/105497450/194762583-befe0e13-bf8b-45e5-95c4-28a4ca99c887.gif) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrHoodd&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![204918ba36913](https://user-images.githubusercontent.com/105497450/194762583-befe0e13-bf8b-45e5-95c4-28a4ca99c887.gif) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrHoodd&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### An independent node operator that supports open networks to secure the future of decentralized systems and an active participant in the blockchain space
