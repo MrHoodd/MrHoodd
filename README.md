@@ -4,5 +4,5 @@
 ### An independent node operator that supports open networks to secure the future of decentralized systems and an active participant in the blockchain space
 
 ### Languages and Tools 
-![Python](https://img.shields.io/badge/-Python-blueviolet?style=flat-square&logo=Python) ![Bash](https://img.shields.io/badge/-Bash-brightgreen?style=flat-square&logo=GNU Bash)
+![Python](https://img.shields.io/badge/-Python-blueviolet?style=flat-square&logo=Python) ![Bash](https://img.shields.io/badge/-Bash-brightgreen?style=flat-square&logo=GNUBash)
 
