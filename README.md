@@ -4,5 +4,5 @@
 ### An independent node operator that supports open networks to secure the future of decentralized systems and an active participant in the blockchain space
 
 ### Languages and Tools 
-![Python](https://img.shields.io/badge/-Python-success?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-blueviolet?style=for-the-badge&logo=Python)
 
