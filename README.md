@@ -1,4 +1,4 @@
-![Header](https://github.com/MrHoodd/MrHoodd/blob/main/assets/logo.gif)
+![Header](https://github.com/MrHoodd/MrHoodd/blob/main/assets/logo.gif) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrHoodd&show_icons=true&theme=tokyonight)
 
 ### An independent node operator that supports open networks to secure the future of decentralized systems and an active participant in the blockchain space
 
